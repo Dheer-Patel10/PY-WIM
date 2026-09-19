@@ -7,7 +7,7 @@
 
 ## 📌 Overview
 
-`PY-WIM` is designed to streamline inventory tracking for small warehouse managers and retail supervisors. It addresses common manual inventory issues—such as lack of data validation, missing audit trails, and stockout risks—by leveraging OOP principles and fast in-memory dictionary data structures.
+`PY-WIM` is designed to streamline inventory tracking for smaller warehouse managers and retail supervisors. It addresses common manual inventory issues—such as lack of data validation, missing audit trails, and stockout risks—by leveraging OOP principles and fast in-memory dictionary data structures.
 
 ---
 
